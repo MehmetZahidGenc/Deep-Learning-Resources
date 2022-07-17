@@ -16,3 +16,7 @@ A small gradient means that the weight and biases of the initial layers will not
 
 ![image](https://user-images.githubusercontent.com/71969819/179409152-3f845fc6-d1cc-40b1-8981-1f39e4d830cd.png)
 
+
+# What is Batch normalization ?
+
+Batch normalization (also known as batch norm) is a method used to make training of artificial neural networks faster and more stable through normalization of the layers' inputs by re-centering and re-scaling.
