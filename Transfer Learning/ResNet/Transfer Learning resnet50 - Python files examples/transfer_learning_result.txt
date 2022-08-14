@@ -1,0 +1,148 @@
+Epoch 1/25
+----------
+train loss: 0.7412, acc: 0.7439
+validation loss: 0.4654, acc: 0.8414
+
+
+Epoch 2/25
+----------
+train loss: 0.4024, acc: 0.8601
+validation loss: 0.3678, acc: 0.8738
+
+
+Epoch 3/25
+----------
+train loss: 0.3375, acc: 0.8783
+validation loss: 0.3483, acc: 0.8692
+
+
+Epoch 4/25
+----------
+train loss: 0.3296, acc: 0.8858
+validation loss: 0.3622, acc: 0.8727
+
+
+Epoch 5/25
+----------
+train loss: 0.2885, acc: 0.9032
+validation loss: 0.3506, acc: 0.8762
+
+
+Epoch 6/25
+----------
+train loss: 0.2735, acc: 0.9052
+validation loss: 0.3110, acc: 0.8970
+
+
+Epoch 7/25
+----------
+train loss: 0.2294, acc: 0.9173
+validation loss: 0.3000, acc: 0.8924
+
+
+Epoch 8/25
+----------
+train loss: 0.2442, acc: 0.9159
+validation loss: 0.3011, acc: 0.8947
+
+
+Epoch 9/25
+----------
+train loss: 0.2201, acc: 0.9185
+validation loss: 0.3139, acc: 0.8819
+
+
+Epoch 10/25
+----------
+train loss: 0.2137, acc: 0.9240
+validation loss: 0.3438, acc: 0.8889
+
+
+Epoch 11/25
+----------
+train loss: 0.2082, acc: 0.9254
+validation loss: 0.4216, acc: 0.8542
+
+
+Epoch 12/25
+----------
+train loss: 0.2646, acc: 0.9055
+validation loss: 0.3692, acc: 0.8762
+
+
+Epoch 13/25
+----------
+train loss: 0.2695, acc: 0.9032
+validation loss: 0.3539, acc: 0.8785
+
+
+Epoch 14/25
+----------
+train loss: 0.1891, acc: 0.9312
+validation loss: 0.4203, acc: 0.8530
+
+
+Epoch 15/25
+----------
+train loss: 0.2899, acc: 0.9000
+validation loss: 0.3483, acc: 0.8773
+
+
+Epoch 16/25
+----------
+train loss: 0.1850, acc: 0.9321
+validation loss: 0.3310, acc: 0.8854
+
+
+Epoch 17/25
+----------
+train loss: 0.2028, acc: 0.9251
+validation loss: 0.3354, acc: 0.8877
+
+
+Epoch 18/25
+----------
+train loss: 0.2212, acc: 0.9138
+validation loss: 0.2963, acc: 0.8981
+
+
+Epoch 19/25
+----------
+train loss: 0.1779, acc: 0.9393
+validation loss: 0.3058, acc: 0.8900
+
+
+Epoch 20/25
+----------
+train loss: 0.2239, acc: 0.9144
+validation loss: 0.3210, acc: 0.8935
+
+
+Epoch 21/25
+----------
+train loss: 0.1728, acc: 0.9378
+validation loss: 0.3380, acc: 0.8900
+
+
+Epoch 22/25
+----------
+train loss: 0.1987, acc: 0.9254
+validation loss: 0.3218, acc: 0.8958
+
+
+Epoch 23/25
+----------
+train loss: 0.1432, acc: 0.9474
+validation loss: 0.3359, acc: 0.8889
+
+
+Epoch 24/25
+----------
+train loss: 0.1682, acc: 0.9381
+validation loss: 0.3063, acc: 0.9016
+
+
+Epoch 25/25
+----------
+train loss: 0.1688, acc: 0.9378
+validation loss: 0.3188, acc: 0.8877
