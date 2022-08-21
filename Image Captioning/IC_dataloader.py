@@ -2,11 +2,11 @@
 Created by Mehmet Zahid Genç
 """
 
-import os  # when loading file paths
-import pandas as pd  # for lookup in annotation file
-import spacy  # for tokenizer
+import os
+import pandas as pd 
+import spacy 
 import torch
-from torch.nn.utils.rnn import pad_sequence  # pad batch
+from torch.nn.utils.rnn import pad_sequence  
 from torch.utils.data import DataLoader, Dataset
 from PIL import Image  # Load img
 import torchvision.transforms as transforms
