@@ -36,9 +36,6 @@ def train_model(train_loader, dataset, model, num_epochs):
     model.train()
 
     for epoch in range(num_epochs):
-        # Uncomment the line below to see a couple of test cases
-        # print_examples(model, device, dataset)
-
         if save_model:
             checkpoint = {
                 "state_dict": model.state_dict(),
