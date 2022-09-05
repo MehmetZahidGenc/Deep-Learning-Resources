@@ -10,6 +10,12 @@ import matplotlib.pyplot as plt
 
 class confusionMatrix:
     def __init__(self, dataset_path, batch_size, transform, model_path, fig_filename, save_fig=False):
+        """
+        dataset_path: which data (test, valid or train) will be use. For instance; dataset/test
+        model_path: which model will be used for predictions
+        transform: transformer 
+
+        """
         self.dataset_path = dataset_path
         self.batch_size = batch_size
         self.transform = transform
