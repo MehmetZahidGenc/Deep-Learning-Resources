@@ -1,3 +1,3 @@
 # Autoencoders
 
-variational autoencoder will be added
+* variational autoencoder will be added
