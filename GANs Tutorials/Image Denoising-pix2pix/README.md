@@ -1,6 +1,6 @@
 # Image Denoising
 
-:man_technologist: Notebook does not work with gpu, gpu support will be added
+:man_technologist: Notebook does not work with gpu, gpu support will be added. Output send cpu, so input and output cannot compute same machine.
 
 * Input Image
 
