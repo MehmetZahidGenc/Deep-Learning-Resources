@@ -1,5 +1,7 @@
 # Image Denoising
 
+:man_technologist: Notebook does not work with gpu, gpu support will be added
+
 * Input Image
 
 ![input image](https://user-images.githubusercontent.com/71969819/190461614-05e5bd85-0b53-4bb0-9836-4e80440c9bad.png)
